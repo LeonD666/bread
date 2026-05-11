@@ -14,5 +14,5 @@ bread
     <img src="./Introduction of Leon Duan_files/ip.png" alt="my image">
     <p class="caption">Name of insert image</p>
 </div>
-    
+![image](https://github.com/LeonD666/bread/blob/main/img.png)    
 </body>
