@@ -19,3 +19,7 @@ bread
 ![image](https://github.com/LeonD666/bread/blob/main/img.png)
 123
 <img width="144" height="218" alt="img" src="https://github.com/user-attachments/assets/5d0fbff2-a51f-46fc-9637-52698cb5cc42" />
+1
+1
+1
+![image](https://github.com/LeonD666/bread/blob/main/img2.jpg)
