@@ -1,2 +1,18 @@
 # bread
 bread
+<body><p>Introduction</p><p>Hello, I am Leon Duan.</p><p>This is a common paragraph,but from <span style="color:red;">I am Learner.</span>is red.</p>
+<p>Nice to meet you.<span style="font_weigh:bold;fond_size:60px;">Nice</span>.</p><style>
+    .big-strong {
+        font-weight:bold;
+        font-size:24px;
+        color:#d00;
+    }
+</style>
+
+ <p>
+    Nice to meet you.<strong class="big-strong">Body</strong>.</p><div class="image-container">
+    <img src="./Introduction of Leon Duan_files/ip.png" alt="my image">
+    <p class="caption">Name of insert image</p>
+</div>
+    
+</body>
