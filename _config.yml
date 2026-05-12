@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: XXX餐厅
 description: 这是一个线上订餐网站
+
+# 必须加下面这行！
+permalink: /:title.html
