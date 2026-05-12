@@ -4,4 +4,4 @@ description: 这是一个线上订餐网站
 permalink: /:title.html
 
 # 加上下面这一行！！！
-baseurl: "/你的仓库名"
+baseurl: "/bread"
