@@ -1,0 +1,21 @@
+<!-- 文章内容显示在这里 -->
+<div class="content">
+  {{ content }}
+</div>
+
+<!-- 导航按钮区域 -->
+<div class="nav-buttons">
+  <a href="/">[返回首页]</a>
+
+  <!-- 上一页逻辑 -->
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}">[上一页]</a>
+  {% endif %}
+
+  <!-- 下一页逻辑 -->
+  {% if page.next %}
+    <a href="{{ page.next.url }}">[下一页]</a>
+  {% else %}
+    <span>文章见底</span>
+  {% endif %}
+</div>
