@@ -1,15 +1,9 @@
 ---
 layout: none
 ---
-<!DOCTYPE html>
-<html lang="zh-CN">
-<h1>目录</h1>
-<ul>
-  <!-- 循环开始：遍历 _post 文件夹里的所有文章 -->
-  {% for post in site.posts %}
-    <li>
-      <!-- 这里的链接要指向对应的文章页面 -->
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+
+# 目录
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
