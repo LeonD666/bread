@@ -4,4 +4,6 @@ title: "XX餐厅"
 date: 2026-05-12 20:00:00 +0800
 categories: blog
 ---
-这里是文章的正文内容，支持 Markdown 语法。
+theme: jekyll-theme-minimal
+title: XXX餐厅
+description: 这是一个线上订餐网站
